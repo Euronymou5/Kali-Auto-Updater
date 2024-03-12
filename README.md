@@ -12,7 +12,7 @@ Para ser más precisos, la "incompatibilidad" se origina con el archivo "archive
 - **El script descarga la clave pública más reciente desde la página archive.kali.org/archive-key.asc y, mediante apt-key, sustituye la antigua clave pública por la más actualizada.**
 
 - **Tambien, actualiza la lista de repositorios a la versión más reciente, lo que permite la instalación de versiones más recientes de programas, actualizaciones de seguridad y nuevas características del sistema operativo.**
-- 
+
 ## Instalacion
 
 Clonamos el repositorio
