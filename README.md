@@ -13,6 +13,12 @@ Para ser más precisos, la "incompatibilidad" se origina con el archivo "archive
 
 - **Tambien, actualiza la lista de repositorios a la versión más reciente, lo que permite la instalación de versiones más recientes de programas, actualizaciones de seguridad y nuevas características del sistema operativo.**
 
+- **Se reinstala command-not-found: Este comando reinstalará el paquete command-not-found y puede arreglar archivos corruptos o perdidos.**
+
+- **Se configuran los paquetes pendientes: Si hay configuraciones pendientes o paquetes a medio instalar, este comando intentará arreglarlo.**
+
+- **Se eliminan paquetes innecesarios: Este comando limpiará paquetes que ya no son necesarios, lo cual puede ayudar a mantener tu sistema limpio**
+
 ## Instalacion
 
 Clonamos el repositorio
