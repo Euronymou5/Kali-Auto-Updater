@@ -1,5 +1,5 @@
 # Kali-Auto-Updater
-Kali Auto Updater es un script sencillo en Python que permite la actualización de repositorios y clave pública de las versiones 2021 para abajo.
+Kali Auto Updater es un script sencillo en bash que permite la actualización de repositorios y clave pública de las versiones 2021 para abajo.
 
 Kali Auto Updater hace que las versiones de Kali Linux 2021 para abajo se puedan utilizar sin ningún problema.
 
@@ -36,7 +36,7 @@ cd Kali-Auto-Updater
 Ejecutamos el script en modo root
 
 ```bash
-sudo python3 main.py
+sudo bash update.sh
 ```
 
 ## 🌐 Contacto 🌐
